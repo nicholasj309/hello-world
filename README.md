@@ -1,3 +1,3 @@
 # hello-world
 Just another repository
-Learnign Github is fun!
+Learning Github is fun!
